@@ -24,7 +24,7 @@
     - From there, creating a pivot table based on this new DataFrame and isolate the date ranges of January to April 2019
     - Finally, converting this pivot table to a Pandas DataFrame allows for using Matplotlib to create the multi-line plot
 
-    ![PyBer Line Plot](readme_images/pyber_plot.png)
+![PyBer Line Plot](readme_images/pyber_plot.png)
 
     - This plot highlights that Urban cities generate the most revenue among the 3 city types even with the lower per ride fare as seen in the Summary DataFrame.
 
