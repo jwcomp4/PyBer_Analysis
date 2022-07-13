@@ -26,7 +26,8 @@
 
 ![PyBer Line Plot](readme_images/pyber_plot.png)
 
-    - This plot highlights that Urban cities generate the most revenue among the 3 city types even with the lower per ride fare as seen in the Summary DataFrame.
+
+- This plot highlights that Urban cities generate the most revenue among the 3 city types even with the lower per ride fare as seen in the Summary DataFrame.
 
 ## Summary
 
